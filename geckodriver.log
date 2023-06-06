@@ -1,0 +1,38 @@
+1685303970698	geckodriver	INFO	Listening on 127.0.0.1:50726
+1685304247335	geckodriver	INFO	Listening on 127.0.0.1:50908
+1685304337287	geckodriver	INFO	Listening on 127.0.0.1:50954
+1685304471944	geckodriver	INFO	Listening on 127.0.0.1:50996
+1685304475088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "--remote-debugging-port" "50 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wrivera\\AppData\\Local\\Temp\\rust_mozprofileiHqKwM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685304479462	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685304479477	Marionette	INFO	Listening on port 51008
+Read port: 51008
+console.error: "Warning: unrecognized command line flag -incognito\n"
+WebDriver BiDi listening on ws://127.0.0.1:50997
+1685304480183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 414))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50997/devtools/browser/85a4d626-0ec4-4a56-b61e-19c14e2d93a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S504191950%3A1685304492421018&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=Af_xneGT6036m-nsWo4dgkGcoHwtBcaD0R6R414zzy2G25iD_oExUGOvuQIy90EGQEGFWfVSsTwzRQ&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 205 > injectedScript line 2 > eval line 3515 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1685305060182	geckodriver	INFO	Listening on 127.0.0.1:51785
+1685305063222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "--remote-debugging-port" "51 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wrivera\\AppData\\Local\\Temp\\rust_mozprofileDUltWI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685305064441	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685305064455	Marionette	INFO	Listening on port 51796
+Read port: 51796
+console.error: "Warning: unrecognized command line flag -incognito\n"
+WebDriver BiDi listening on ws://127.0.0.1:51786
+1685305064847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51786/devtools/browser/fe7fb3fb-ff3a-46fb-94f6-09f963d2ae5c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1140979104%3A1685305070985915&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=Af_xneFiz2p6heJQev2yvvLlSF5uGxIm9ewXHnPfUTOGUqV33fCsm0yQ8eMcDzqZ-h4_XsVeJ7N9oA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 205 > injectedScript line 2 > eval line 2632 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 58: Error: Can't find profile directory.
